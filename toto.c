@@ -8,6 +8,8 @@ int i;
 
 i = 'a';
 
+printf("trololo");
+
 return 0;
 
 }
